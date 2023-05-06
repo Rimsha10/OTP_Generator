@@ -1,0 +1,5 @@
+print("hello world")
+print("42201-9448068-2")
+print("I'm powerful")
+a=input("enter name")
+print(a)
